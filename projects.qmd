@@ -1,9 +1,4 @@
----
-title: "Projects"
----
+
 
 Demonstrate Projects
 
-```{r}
-1 + 3
-```
