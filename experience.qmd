@@ -1,0 +1,22 @@
+---
+toc: false
+---
+
+### Experience
+
+#### NBA Future Analytics Stars (FAS) Program
+::: {layout-ncol=1}
+
+![](NBA_FAS.jpeg){height=2in}
+
+I got accepted into the FAS program after going through 2 rounds of interviews, one of them included building a statistical model predicting an NBA player's 3 point percentage. In the program, 42 other stars along with myself engage in bi-weekly sessions where we gain skills in R, SQL, and Python and do statistical analysis on NBA data. On top of that, we listen to NBA analysts give insight on analytics in the NBA in various Q&A sessions. At the end of the program, we will complete a capstone project for the program.
+
+
+#### UCLA Bruin Sports Analytics (BSA)
+
+![](BSA.jpeg){height=2in}
+
+Throughout my academic journey at UCLA, I had a desire to join a club that can give me vital experience in the sports analytics industry, and this club helps me enhance my coding skills and apply it to what I want to do as a career. As I did not have coding experience when I first joined, I attended many workshops to improve my coding skills while applying it to sports data. As I sharpened my skills in R, I joined the Data Journalism team, where I wrote an article about load management in the NBA, and eventually I joined the Tennis Consulting team, where I watch and tag UCLA tennis matches, create data visualizations, and create match reports with those visualizations and send them back to the UCLA tennis coaches.
+:::
+
+

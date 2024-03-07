@@ -1,3 +1,7 @@
+---
+toc: false
+---
 
-Demonstrate Projects
+## Projects
 
+This is an article that I wrote about [load management in the NBA](https://www.bruinsportsanalytics.com/post/load-management) during my time at the Bruin Sports Analytics Data Journalism Team.

@@ -15,8 +15,17 @@ about:
 image: profile_picture.jpeg
 ---
 
-## Title of Website
+## Welcome to my Website!
+### About Me
 
-Attached is my current [CV](/docs/CV/CV.pdf "CV")
+I am currently a fourth year Undergrad Statistics and Data Science Student at University of California, Los Angeles (UCLA). Prior to transferring to UCLA, I attained my AS in Mathematics at El Camino College. 
+
+::: {layout-ncol=2}
+![](UCLA_logo.jpeg)
+
+![](ECC_logo.jpeg){height=2in}
+:::
+
+If you want to know more about me, my [CV](/docs/CV/CV.pdf "CV") is attached here.
 
 
