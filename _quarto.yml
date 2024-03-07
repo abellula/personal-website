@@ -10,6 +10,15 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
+    right: 
+      - icon: github
+        menu:
+          - text: Website Source Code
+            url:  https://github.com/abellula/personal-website
+          - text: Github Profile
+            url:  https://github.com/abellula
+  page-footer:
+    right: "&copy; 2024, Abel Lula"
 
 format:
   html:

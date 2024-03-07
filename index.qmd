@@ -1,11 +1,22 @@
 ---
 toc: false
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/abel-lula-21980a1a1"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/abellula"
+    - text: Email
+      icon: inbox-fill
+      url: "mailto:abellula2@gmail.com"
+image: profile_picture.jpeg
 ---
 
 ## Title of Website
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
 
 
