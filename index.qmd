@@ -26,6 +26,6 @@ I am currently a fourth year Undergrad Statistics and Data Science Student at Un
 ![](ECC_logo.jpeg){height=2in}
 :::
 
-If you want to know more about me, my [CV](/docs/CV/CV.pdf "CV") is attached here.
+If you want to know more about me, my CV is attached [here](/docs/CV/CV.pdf "CV").
 
 
