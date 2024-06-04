@@ -5,3 +5,7 @@ toc: false
 ## Projects
 
 This is an article that I wrote about [load management in the NBA](https://www.bruinsportsanalytics.com/post/load-management) during my time at the Bruin Sports Analytics Data Journalism Team.
+
+This is my [presentation](/docs/nba 3pt presentation.pdf "3pt") that I submitted to get accepted into the NBA Future Analytics Stars Program.
+
+This is my [capstone project](/docs/NBA Capstone.pptx.pdf "Capstone") that I completed to culminate the NBA FAS Program.
