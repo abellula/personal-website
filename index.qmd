@@ -18,7 +18,7 @@ image: profile_picture.jpeg
 ## Welcome to my Website!
 ### About Me
 
-I am currently a fourth year Undergrad Statistics and Data Science Student at University of California, Los Angeles (UCLA). Prior to transferring to UCLA, I attained my AS in Mathematics at El Camino College. 
+I am currently a fourth year Undergrad Statistics and Data Science Student at University of California, Los Angeles (UCLA) and will graduate with a bachelor's degree in June 2024. Prior to transferring to UCLA, I attained my AS in Mathematics at El Camino College. 
 
 ::: {layout-ncol=2}
 ![](UCLA_logo.jpeg)
