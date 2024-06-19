@@ -18,7 +18,7 @@ image: profile_picture.jpeg
 ## Welcome to my Website!
 ### About Me
 
-I am currently a fourth year Undergrad Statistics and Data Science Student at University of California, Los Angeles (UCLA) and will graduate with a bachelor's degree in June 2024. Prior to transferring to UCLA, I attained my AS in Mathematics at El Camino College. 
+I recently graduated with a Bachelor's Degree at University of California, Los Angeles (UCLA), majoring in Statistics and Data Science. Prior to transferring to UCLA, I attained my AS in Mathematics at El Camino College. Right now, I am currently looking for work in the data science industry, particularly in sports.
 
 ::: {layout-ncol=2}
 ![](UCLA_logo.jpeg)
@@ -26,6 +26,6 @@ I am currently a fourth year Undergrad Statistics and Data Science Student at Un
 ![](ECC_logo.jpeg){height=2in}
 :::
 
-If you want to know more about me, my CV is attached [here](/docs/CV/CV2.pdf "CV").
+If you want to know more about me, my CV is attached [here](/docs/CV/CV2.pdf "CV2").
 
 
